@@ -1,5 +1,7 @@
 # Autofill Google Form with Selenium &amp; Python 
 
+Example of autofill the google form with Selenium and Python
+
 ![](project-ss.png)
 
 
